@@ -13,8 +13,10 @@ Linear algebra is a fundamental mathematical discipline with applications in man
 
 ## Topics Covered
 
+- Scalars and Scalar Operations
 - Vectors and Vector Operations
 - Matrices and Matrix Operations
+- Tensors and Tensor Operations
 - Systems of Linear Equations
 - Eigenvalues and Eigenvectors
 - Singular Value Decomposition (SVD)
