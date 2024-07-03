@@ -42,8 +42,8 @@ Linear algebra is a fundamental mathematical discipline with wide-ranging applic
 - SymPy: For symbolic mathematics
 - JAX: For high-performance machine learning research
 - Matplotlib: For creating static, animated, and interactive visualizations
-- Pytorch: For tensor operations and deep learning
-- Tensorflow: For tensor operations and deep learning
+- Pytorch: For tensor operations
+- Tensorflow: For tensor operations
 
 ## Getting Started
 
@@ -63,7 +63,7 @@ Linear algebra is a fundamental mathematical discipline with wide-ranging applic
 
 ## Visualization Example
 
-Here are examples my visualizations from this project:
+Here are examples of my visualizations from this project:
 # Vectors in 3D space and Regression in 3D space
 
 <table align="center">
