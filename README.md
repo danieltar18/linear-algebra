@@ -66,7 +66,10 @@ Linear algebra is a fundamental mathematical discipline with wide-ranging applic
 Here are examples my visualizations from this project:
 # Vectors in 3D space and Regression in 3D space
 
-![Vectors in 3D Space Visualization](vectors_3d.png) ![Regression in 3D Space Visualization](regression_3d.png)
+<p float="left">
+  <img src="vectors_3d.png" width="400" height="400" alt="Vectors in 3D Space Visualization" />
+  <img src="regression_3d.png" width="400" height="400" alt="Regression in 3D Space Visualization" />
+</p>
 
 # Real-world Diabetes Dataset
 
