@@ -66,11 +66,11 @@ Linear algebra is a fundamental mathematical discipline with wide-ranging applic
 Here are examples of my visualizations from this project:
 # Vectors in 3D space and Regression in 3D space
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <div style="flex: 1 1 300px; text-align: center;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <div style="margin: 10px;">
     <img src="img/vectors_3d.png" width="300" height="300" alt="Vectors in 3D Space Visualization" style="max-width: 100%; height: auto;" />
   </div>
-  <div style="flex: 1 1 300px; text-align: center;">
+  <div style="margin: 10px;">
     <img src="img/regression_3d.png" width="300" height="300" alt="Regression in 3D Space Visualization" style="max-width: 100%; height: auto;" />
   </div>
 </div>
